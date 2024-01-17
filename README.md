@@ -1,17 +1,27 @@
-### Hi there 👋
-very good
-this is a test
-这是一个测试
-**kobelzp/kobelzp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 안녕하세요, [류잔푸]입니다!
 
-Here are some ideas to get you started:
+## 👋 소개
+안녕하세요, 저는 [학생]로 활동 중인 [당신의 이름]입니다. [당신의 전문 분야에 대한 간략한 소개]에 관심이 많으며, [당신의 경력이나 학력 등에 대한 간략한 정보]입니다.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔍 관심사
+- [당신의 관심사나 전문 분야 #1]
+- [당신의 관심사나 전문 분야 #2]
+- [기타 관심사나 전문 분야]
+
+## 🌟 주요 경력 및 성과
+- [경력 또는 성과 #1]
+- [경력 또는 성과 #2]
+- [기타 경력 또는 성과]
+
+## 💻 기술 스택
+- 언어: [사용 언어 #1, #2, ...]
+- 프레임워크 및 도구: [프레임워크 및 도구 #1, #2, ...]
+- 데이터베이스: [데이터베이스 #1, #2, ...]
+
+## 📫 연락 방법
+- 이메일: [당신의 이메일]
+- LinkedIn: [LinkedIn 프로필 링크]
+- Twitter: [Twitter 계정 링크] (해당하는 경우)
+
+## ⚡ 재미있는 사실
+- [당신에 관한 재미있는 사실 또는 흥미로운 취미]
